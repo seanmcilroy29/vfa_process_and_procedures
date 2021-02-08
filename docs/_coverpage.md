@@ -1,7 +1,7 @@
 ![logo](./img/vfa_logo.PNG ':no-zoom')
 
 # Volumetric Format Association Introduction <small>v1.0</small> 
-[VFA Onboarding](Introduction.md)
+[The Way We Work](the_way_we_work.md)
 [VFA Website](https://www.volumetricformat.org/)
 [helpdesk](mailto:helpdesk@volumetricformat.org)
 
