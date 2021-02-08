@@ -3,7 +3,7 @@
 ## VFA Resources
 
 <table>
-  <caption>VFA Overview</caption>
+  <caption></caption>
   <thead>
     <tr>
       <th>Category</th>
