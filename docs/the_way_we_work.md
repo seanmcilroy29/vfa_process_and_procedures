@@ -156,7 +156,7 @@ Note: Details to be added/updated after VFA Charter has been Approved
 ```
 Note: Details to be added/updated after VFA Charter has been Approved
 ```
-### Technical Steering Committee (TSC)
+## Technical Steering Committee (TSC)
 * Approval of the Specifications and other works produced as a consensus product of the Working Groups.
 * Technical leadership of the VFA project is delegated to the TSC in accordance with the [VFA Charter](add here).
 * The TSC's primary role is setting VFA's technical & product direction based on the [project guidelines](https://github.com/volumetricformat).
@@ -177,7 +177,7 @@ Note: Details to be added/updated after VFA Charter has been Approved
 * Approves changes to the VFA Charter and this document as described in the [AMP Charter]().
 * Decisions within the TSC follow the decision-making policy, and are facilitated by the Chair or their designate.
 
-### Working Group(s) (WGs)
+## Working Group(s) (WGs)
 ```
 Note: Details to be added/updated after VFA Charter has been Approved
 ```
@@ -223,7 +223,7 @@ The Steering Committee and each Working Group will endeavor to make all decision
 Notifications and Electronic Voting. The [add here] is responsible for issuing all notifications of meetings and votes of the Steering Members and each Working Group chair is responsible for issuing all notifications of meetings and votes of the Working Group for which it is the chair, in each case subject to the following minimum criteria: (i) in-person meetings require at least 30 days prior written notice, (ii) teleconference meetings require at least 7 days prior written notice (this requirement only applies to the notification of the first meeting of automatically recurring teleconference meetings), (iii) electronic votes require no advance notice but must be made pursuant to a clear and unambiguous ballot with only “yes” and “no” options, and the voting must remain open for no less than 7 days. These notification requirements with respect to the Project or that particular Working Group may be overridden upon unanimous consent of all Steering Members or all applicable Working Group Participants that have attended and participated in at least 50% of the last 4 meetings of the Project or Particular Working Group.
 ```
 ## Using Supermajority vote to achieve agreement
-### Phrasing of Voting Questions
+## Phrasing of Voting Questions
 * The chair ensures that questions to be voted upon SHALL be phrased in a concise and unambiguous manner.
   * Questions SHOULD NOT be phrased as the “The group SHALL not do xyz”. Examples of appropriate questions are:
   * SHALL the group agree the Specification?
@@ -252,10 +252,10 @@ Note: Details to be added/updated after VFA Charter has been Approved
   * Teleconference meetings require at least 7 days prior written notice
   * Electronic voting MUST remain open for no less than 7 days.
 
-## Membership Benefits
+### Membership Benefits
 [VFA Membership Levels & Associated Benifits](https://github.com/volumetricformat/the_way_we_work/blob/Initial_proposal/Support_Documentation/membership_benefits.md).
 
-## What to Expect from;
+### What to Expect from;
 * [Members](#Members)
 * [Editors](#Editors)
 * [Chairs | Officers](#from-wg-chairs-officers)
