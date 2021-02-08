@@ -6,7 +6,97 @@ The scope of this specification is to define the operations and processes of the
 ## Conventions
 The keywords "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC2119](https://www.ietf.org/rfc/rfc2119.txt).
 
-## [Definitions](https://github.com/volumetricformat/the_way_we_work/blob/Initial_proposal/Support_Documentation/definitions.md) used within the development of VFA projects
+## Definitions
+
+<table>
+  <caption>Definitions</caption>
+  <tbody>
+    <tr>
+	<td><strong>Committee Team</strong></td>
+	<td>A group chartered by the Steering Committee to perform specific support tasks</td>
+    </tr>
+    <tr>
+	<td><strong>Editor(s)</strong></td>
+	<td>A member of a Working Group that is responsible to edit and maintain a document.</td>
+    </tr>	  
+    <tr>
+	<td><strong>Epic</strong></td>
+	<td>It is a component inside of a Work Package. It could be a feature, customer request or business requirement.</td>
+    </tr>
+    <tr>
+	<td><strong>e-Vote</strong></td>
+	<td>Electronic Vote.</td>
+    </tr>
+    <tr>
+	<td><strong>Issue(s)</strong></td>
+	<td>An important topic or problem for debate or discussion. Normally, in VFA Issues are tracked in Github.</td>
+    </tr>	  
+    <tr>
+	<td><strong>Maintainer</strong></td>
+	<td>A member of the Working Group or VFA  staff support that performs maintenance tasks on behalf of the Working Group or Organization.</td>
+    </tr>
+    <tr>
+	<td><strong>Member(s)</strong></td>
+	<td>A person that belongs to a company that has signed VFA Membership Application and Charter(s) and have access to VFA resources.</td>
+    </tr>	  
+    <tr>
+	<td><strong>Membership Application</strong></td>
+	<td>A legal document that provides legal information about rights and obligations of being a member company of VFA.</td>
+    </tr>
+    <tr>
+	<td><strong>Chairs</strong></td>
+	<td>VFA member that has been selected by the Working Group as a coordinator for the Working Group activies.</td>
+    </tr>	  
+    <tr>
+	<td><strong>Project Charter</strong></td>
+	<td>A legal document that describes the VFA Project.</td>
+    </tr>
+    <tr>
+	<td><strong>Pull Request (PR)</strong></td>
+	<td>It indicates what changes are suggested to a branch in a repository on GitHub.</td>
+    </tr>
+    <tr>
+	<td><strong>Release</strong></td>
+	<td>It is the distribution of the final version of a document or application.</td>
+    </tr>	  
+    <tr>
+	<td><strong>Review & Approval (R&A)</strong></td>
+	<td>A special process that is used to convey agreement or disagrement on a topic. </td>
+    </tr>
+    <tr>
+	<td><strong>Semantic Versioning</strong></td>
+	<td>It is a versioning scheme to convey backwards or not backwards compatibility of a release.</td>
+    </tr>
+    <tr>
+	<td><strong>Source Code</strong></td>
+	<td>A text listing of commands to be compiled or assembled into an executable computer program.</td>
+    </tr>	  
+    <tr>
+	<td><strong>Specification(s)</strong></td>
+	<td>An act of describing or identifying something precisely or of stating a precise requirement.</td>
+    </tr>	  
+    <tr>
+	<td><strong>Technical Steering Committee (TSC) </strong></td>
+	<td>A committee who sets the technica and order of business on VFA. </td>
+    </tr>
+    <tr>
+	<td><strong>Working Group (WG)</strong></td>
+	<td>It is a group of expertes working together to achieve predefined objectives. The group formalize its objectives and goals in a formal document, the Working Group Charter.</td>
+    </tr>
+    <tr>
+	<td><strong>Working Group Chair</strong></td>
+	<td>A person selected by the Working Group which primary role is to facilitate consensus-building among the group members.</td>
+    </tr>	  
+    <tr>
+	<td><strong>Working Group Charter</strong></td>
+	<td>A document that contains the scope, objectives and goals of a particular group. </td>
+    </tr>
+    <tr>
+	<td><strong>Work Package</strong></td>
+	<td>It is a group of related tasks within a project. Each Work Package can be broken down into one or more Epics.</td>
+    </tr>	  
+  </tbody>
+</table>
 
 ## Abbreviations
 
@@ -141,12 +231,12 @@ The keywords "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SH
 
 Kindly consult [VFA Dictionary](https://github.com/volumetricformat/dictionary/blob/development/Dictionary/Dictionary.mdd) for more definitions used in this document.
 
-## Governance
+# Governance
 The Project Charter describes the governance structure for the association.
 ```
 Note: Details to be added/updated after VFA Charter has been Approved
 ```
-### Organization Structure
+## Organization Structure
 <figure>
 	<img src="img/vfa_governance.svg" alt="VFA Governance Structure">
 	<figcaption>VFA Governance Structure</figcaption>
@@ -207,7 +297,7 @@ As part of their responsibilities defined in [WG Chairs Officers](), officers ne
   * In non-real-time meetings, consensus SHOULD be developed using Review, Comment and Agreement periods, e.g. using Review and Approval
 * Proposals SHALL be available for a given period.
 
-### Seeking Technical Decision-Making consensus
+## Seeking Technical Decision-Making consensus
 * Groups shall endeavour to reach consensus on all decisions.
 * Informal methods of reaching consensus are encouraged (e.g. a show of hands).
 * Groups SHOULD attempt to ensure contributions relating to the same subject matter are considered together before being disposed of.
@@ -215,7 +305,7 @@ As part of their responsibilities defined in [WG Chairs Officers](), officers ne
 * Agreement SHALL be sought in all forms of meeting.
 [Handling objections when seeking consensus](https://github.com/volumetricformat/the_way_we_work/blob/Initial_proposal/Support_Documentation/Technical_Decision-Making.md)
 
-#### Consensus/Voting/Approval. 
+## Consensus/Voting/Approval. 
 ```
 Details TBC once the VFA charter has been Approved
 The Steering Committee and each Working Group will endeavor to make all decisions by consensus. Where the Steering Committee or Working Group cannot reach consensus with respect to a particular decision, the Steering Committee or Working Group will make that decision by a Supermajority Vote of the Steering Members or Working Group Participants, as applicable.
@@ -252,10 +342,10 @@ Note: Details to be added/updated after VFA Charter has been Approved
   * Teleconference meetings require at least 7 days prior written notice
   * Electronic voting MUST remain open for no less than 7 days.
 
-### Membership Benefits
+## Membership Benefits
 [VFA Membership Levels & Associated Benifits](https://github.com/volumetricformat/the_way_we_work/blob/Initial_proposal/Support_Documentation/membership_benefits.md).
 
-### What to Expect from;
+## What to Expect from;
 * [Members](#Members)
 * [Editors](#Editors)
 * [Chairs | Officers](#from-wg-chairs-officers)
@@ -267,7 +357,7 @@ Note: Details to be added/updated after VFA Charter has been Approved
 
 ### Editors
 
-### WG Chairs
+## WG Chairs
 
 * In performing their tasks, Chairs SHALL maintain strict impartiality and act in the Organization's interest.
 * Chairs MAY limit the amount of time allocated to a particular agenda item or discussion point.
@@ -283,7 +373,7 @@ Note: Details to be added/updated after VFA Charter has been Approved
  
  A list of the current tasks associated with the Chairs responsibilities is to be found [Chair Check List]().
 
-### Maintainers
+## Maintainers
 * The Maintainer MUST keep the project documentation up to date (e.g., contributing, readme and release planning documents)
 * The Maintainer MUST apply [Review & Approval Process]() to contributions submitted by the Working Group members
 * The Maintainer SHOULD use [GitHub Labels]() to indicate the type of [Review & Approval Process]() assigned to each Pull Request
@@ -293,15 +383,15 @@ Note: Details to be added/updated after VFA Charter has been Approved
 ## Elections
 Election criteria TBC
 
-## Meetings
+# Meetings
 * WGs are encouraged to schedule regular conference calls.
 * The Meetings MUST be announced at least 7 days in advance and added to the associated WG calendar in [groups.io](https://volumetric.groups.io/g/main).
 * Conf Call Meetings are to minuted and made available for members to review once the meeting has closed. If there are any discrepancies, members are to submit an issue to the Chair prior to the next scheduled meeting.
 * Previous Meeting Minutes will be agreed in the latest scheduled Conf Call meeting.
 
-### [Minute Guidelines](https://github.com/volumetricformat/the_way_we_work/blob/Initial_proposal/Support_Documentation/Minute_Guidelines.md)
+## [Minute Guidelines](https://github.com/volumetricformat/the_way_we_work/blob/Initial_proposal/Support_Documentation/Minute_Guidelines.md)
 
-## Life Cycle of Technical Specifications
+# Life Cycle of Technical Specifications
 ```
 Note: Details to be added/updated after VFA Charter has been Approved
 ```
@@ -371,7 +461,7 @@ The diagram below represents a high level of the main phases for the development
   </tbody>
 </table>
 
-## Documentation
+# Documentation
 Sematic Versioning 
 <figure>
 	<img src="img/vfa_semantic_versioning.svg" alt="Semantic Versioning">
@@ -411,7 +501,7 @@ Sematic Versioning
   </tbody>
 </table>
 
-## VFA Process Flows
+# VFA Process Flows
 
 ## Work Packages
 * The Work Package (WP) SHALL describe the scope and expected deliverables and SHALL require WG approval
@@ -421,7 +511,7 @@ Sematic Versioning
 	<figcaption>VFA Work Package Breakdown</figcaption>
 </figure>
 
-#### Epics
+### Epics
 * It could be a feature, customer request or business requirement.
 * It is recommendable to define a list of Epics that will be formed the Release Version for the corresponding Work Package.
 * The WG SHOULD define a placeholder for each Epic with few lines of description.
@@ -443,7 +533,7 @@ The goal for an SDO is to reach interoperability; therefore ["forking"](https://
 	<figcaption>VFA Approval Flow</figcaption>
 </figure>
 
-## Review & Approval Process
+# Review & Approval Process
 
 The Review & Approval process implies that all the contributions need to be accepted by the Working Group.
 
@@ -475,7 +565,7 @@ The Review & Approval process implies that all the contributions need to be acce
     * If a sustained objection is received, the contribution cannot be merged, even if 3 or more contributors agreed with the contribution. 
     * If during the review period a contribution receives a comment, it is up to the group or maintainer to accept the comment or not. In any case, in order to merge the contribution at least 3 reviewers MUST indicate that they agree with the contribution.
 
-## GitHub Flow
+# GitHub Flow
 <table>
   <caption>GitHub Workflow</caption>
   <thead>
