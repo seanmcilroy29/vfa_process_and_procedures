@@ -148,7 +148,7 @@ Note: Details to be added/updated after VFA Charter has been Approved
 ```
 ### Organization Structure
 <figure>
-	<img src="images/vfa_governance.svg" alt="VFA Governance Structure">
+	<img src="img/vfa_governance.svg" alt="VFA Governance Structure">
 	<figcaption>VFA Governance Structure</figcaption>
 </figure>
 
@@ -308,7 +308,7 @@ Note: Details to be added/updated after VFA Charter has been Approved
 The diagram below represents a high level of the main phases for the development of Technical Specifications.
 
 <figure>
-	<img src="images/development-process.svg" alt="VFA Development Process">
+	<img src="img/development-process.svg" alt="VFA Development Process">
 	<figcaption>VFA Development Process</figcaption>
 </figure>
 
@@ -374,7 +374,7 @@ The diagram below represents a high level of the main phases for the development
 ## Documentation
 Sematic Versioning 
 <figure>
-	<img src="images/vfa_semantic_versioning.svg" alt="Semantic Versioning">
+	<img src="img/vfa_semantic_versioning.svg" alt="Semantic Versioning">
 	<figcaption>Semantic Versioning</figcaption>
 </figure>
 
@@ -417,7 +417,7 @@ Sematic Versioning
 * The Work Package (WP) SHALL describe the scope and expected deliverables and SHALL require WG approval
 * WPs are breakdown into Epics. Epics are grouped in Technical Releases which are identified by a Release Version, [Semantic Versioning (vX.Y.Z)](https://semver.org/).
 <figure>
-	<img src="images/vfa-breakdown.svg" alt="VFA Work Units">
+	<img src="img/vfa-breakdown.svg" alt="VFA Work Units">
 	<figcaption>VFA Work Package Breakdown</figcaption>
 </figure>
 
@@ -429,7 +429,7 @@ Sematic Versioning
 
 ```This diagram breaksdown each phase into further detail:```
 <figure>
-	<img src="images/vfa-dev-process.svg" alt="VFA Technical Specifications Development Phases">
+	<img src="img/vfa-dev-process.svg" alt="VFA Technical Specifications Development Phases">
 	<figcaption>VFA Technical Specifications Development Phases</figcaption>
 </figure>
 
@@ -439,7 +439,7 @@ In the Standards Development Organizations (SDOs), the majority's approval or re
 The goal for an SDO is to reach interoperability; therefore ["forking"](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/github-glossary#fork) is not the solution to a technical dispute. If there is a sustainable objection in a contribution, the resolution is via a vote.
 
 <figure>
-	<img src="images/vfa_R_and_A_Process2.svg" alt="VFA Approval Flow">
+	<img src="img/vfa_R_and_A_Process2.svg" alt="VFA Approval Flow">
 	<figcaption>VFA Approval Flow</figcaption>
 </figure>
 
@@ -452,7 +452,7 @@ The Review & Approval process implies that all the contributions need to be acce
   * It can be a Pull Request or an Issue. The group decides to extend the review period to facilitate input from people that will not be present at the meeting or give the group more time to review the content.
 
 <figure>
-	<img src="images/R_and_A_Process.svg" alt="Review & Approval Process">
+	<img src="img/R_and_A_Process.svg" alt="Review & Approval Process">
 	<figcaption>VFA Review and Approval Process</figcaption>
 </figure>
 
@@ -505,7 +505,7 @@ The Review & Approval process implies that all the contributions need to be acce
 </table>
 
 <figure>
-	<img src="images/vfa-git-flow.svg" alt="VFA GitHub Flow">
+	<img src="img/vfa-git-flow.svg" alt="VFA GitHub Flow">
 	<figcaption>VFA GitHub Flow</figcaption>
 </figure>
 
@@ -514,7 +514,7 @@ The Review & Approval process implies that all the contributions need to be acce
 ## GitHub Publication
 There are at least three different options to publish content using GitHub:
 <figure>
-	<img src="images/roe_private-vs-public.svg" alt="Private vs Public">
+	<img src="img/roe_private-vs-public.svg" alt="Private vs Public">
 	<figcaption>Private vs Public</figcaption>
 </figure>
 
