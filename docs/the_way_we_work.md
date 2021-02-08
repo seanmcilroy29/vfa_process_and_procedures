@@ -56,7 +56,7 @@ The keywords "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SH
 </tbody>
 </table>
 
-## Introduction
+# Introduction
 
 ## VFA Resources
 
@@ -72,7 +72,7 @@ The keywords "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SH
   <tbody>
    <tr>
       <td rowspan="4"><i>Public</i></td>
-      <td><a href="https://" target="_blank"><strong>Website</strong></a></td>
+      <td><a href="https://" target="_blank"><strong>Website</strong></a></td> /
       <td>Public website dedicated to marketing content.</td>
    </tr>
    <tr>
