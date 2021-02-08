@@ -1,7 +1,7 @@
 # Scope
 The scope of this specification is to define the operations and processes of the Volumetric Format Associations (VFA).
 
-## Terminology and Conventions
+# Terminology and Conventions
 
 ## Conventions
 The keywords "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC2119](https://www.ietf.org/rfc/rfc2119.txt).
@@ -678,14 +678,14 @@ Also consider to:
 * keep these files in sync with the upstream project
 * ask the upstream project to insert the identifiers on their source code files/documents.
 
-## Technical Document License
+# Technical Document License
 ```
 Note: Details to be added/updated after VFA Charter has been Approved
 ```
 In projects where the main deliverables are technical documents, each document MUST have a [VFA legal disclaimer](https://github.com/volumetricformat/the_way_we_work/blob/Initial_proposal/Support_Documentation/License/VFA_License.txt) inserted.
 
 ## Reference Material
-## Documents
+# Documents
 * [Charters](https://github.com/volumetricformat/the_way_we_work/blob/Initial_proposal/Support_Documentation/VFA_Charter.md)
 * [Dictionary](https://github.com/volumetricformat/dictionary/blob/development/Dictionary/Dictionary.md)
 * [Templates](https://github.com/volumetricformat/Templates)
