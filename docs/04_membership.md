@@ -45,4 +45,4 @@ Election criteria TBC
 * Conf Call Meetings are to minuted and made available for members to review once the meeting has closed. If there are any discrepancies, members are to submit an issue to the Chair prior to the next scheduled meeting.
 * Previous Meeting Minutes will be agreed in the latest scheduled Conf Call meeting.
 
-### [Minute Guidelines](https://github.com/volumetricformat/the_way_we_work/blob/Initial_proposal/Support_Documentation/Minute_Guidelines.md)
+## [Minute Guidelines](https://github.com/volumetricformat/the_way_we_work/blob/Initial_proposal/Support_Documentation/Minute_Guidelines.md)
