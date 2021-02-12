@@ -81,4 +81,4 @@
   </tbody>
 </table>
 
-Kindly consult [VFA Dictionary](https://github.com/volumetricformat/dictionary/blob/development/Dictionary/Dictionary.mdd) for more definitions used in this document.
+## [VFA Dictionary](https://github.com/volumetricformat/dictionary/blob/development/Dictionary/Dictionary.md)
