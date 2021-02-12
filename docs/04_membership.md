@@ -1,13 +1,250 @@
-# Membership Benefits
+#  VFA Membership Levels & Associated Benifits
 [VFA Membership Levels & Associated Benifits](https://github.com/volumetricformat/the_way_we_work/blob/Initial_proposal/Support_Documentation/membership_benefits.md).
+<table>
+  <caption>Membership Benefits</caption>
+  <thead>
+    <tr>
+        <th></th>
+        <th>Steering</th>
+        <th>Associate</th>
+        <th>Contributor</th>
+        <th>VFA Community</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+        <td colspan="5"><strong>Pricing</strong></td>
+    </tr>
+    <tr>
+        <td>Price</td>
+        <td>$</td>
+        <td>$</td>
+        <td>$</td>
+        <td>$0</td>
+    </tr>
+    <tr>
+        <td colspan="5"><strong>Leadership</strong></td>
+    </tr>
+    <tr>
+        <td>Eligible to participate in the Steering Committee</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Eligible for a Working Group Chair position</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Eligible for a Working Group Co-Chair position</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td colspan="7"><strong>Participation</strong></td>
+    </tr>
+    <tr>
+        <td>Use the output of working groups</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+    </tr>
+    <tr>
+        <td>Stay up-to-date on VFA progress & innovations</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+    </tr>	  
+    <tr>
+        <td>Eligible to join a Working Group</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Eligible to join the Administration Team</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Eligible to join the Organization Team</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Eligible to join the Communications Team</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td colspan="8"><strong>Contribution</strong></td>
+    </tr>
+    <tr>
+        <td>Contribute ideas to the member alliance</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+    </tr>
+    <tr>
+        <td>Access in-depth information on working groups</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Contribute to working groups</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Influence working group solutions</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Propose new working groups</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Influence working group outcomes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>	  
+    <tr>
+        <td>May propose a Work Package</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+    </tr>   
+    <tr>
+        <td>Counted towards minimum support quorum of a Work Package</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td colspan="5"><strong>Voting</strong></td>
+    </tr>
+    <tr>
+        <td>Approval of Publications, Working Group formation and VFA governance</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Vote in a Supermajority vote</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+	<td>Vote in a <u>informal</u> technical vote</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Participate in consensus polls (R&A)</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td colspan="5"><strong>Access to Documentation</strong></td>
+    </tr>
+    <tr>
+        <td>Access to common MS Teams areas</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Access to restricted MS Teams areas and private GitHub repositories</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>  
+    <tr>
+        <td colspan="5"><strong>Access to Meetings</strong></td>
+    </tr>
+    <tr>
+        <td>Attend Work Group meetings (F2F, conference calls, interim)</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Attend special events | seminars</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>TBD</td>
+    </tr>
+    <tr>
+        <td colspan="5"><strong>Process Administration</strong></td>
+    </tr>
+    <tr>
+        <td>May propose the creation of a Working Group</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>May appeal on technical issues</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>May appeal on procedural issues</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+  </tbody>
+</table>
 
 ## What to Expect from;
-* [Members](#Members)
-* [Editors](#Editors)
-* [Chairs | Officers](#from-wg-chairs-officers)
-* [Maintainer(s)](#Maintainers)
 
-## Members 
+### Members 
 * Members MUST read the Project documentation (e.g., contribution guidelines, readme, and release planning file) before attempting to submit an [Issue](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue) or [Pull Request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 * Members are not allowed to [fork](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/forking-and-cloning-gists#forking-gists) a project to build a feature that has been rejected by the Working Group
 
