@@ -1,4 +1,5 @@
 # GitHub Flow
+
 <table>
   <caption>GitHub Workflow</caption>
   <thead>
@@ -27,12 +28,43 @@
   </tbody>
 </table>
 
+## VFA GitHub Flow
+
 <figure>
 	<img src="img/vfa-git-flow.svg" alt="VFA GitHub Flow">
 	<figcaption>VFA GitHub Flow</figcaption>
 </figure>
 
-## GitHub [VFA Membership and Appointment Access Rights](https://github.com/volumetricformat/the_way_we_work/tree/Initial_proposal/Support_Documentation)
+## GitHub Access Rights
+
+<table>
+  <caption>GitHub Access Rights</caption>
+  <thead>
+    <tr>
+	    <th>Role</th>
+	    <th>Access Rights</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Members</td>
+      <td><i>TRIAGE</i> - Can read and clone this repository. Can also manage issues and pull requests.</td>
+   </tr>
+    <tr>
+      <td>Editors</td>
+      <td><i>WRITE</i> - Can read, clone, and push to this repository. Can also manage issues and pull requests. </td>
+   </tr>
+   <tr>
+      <td>Chairs</td>
+      <td><i>WRITE</i> - Can read, clone, and push to this repository. Can also manage issues and pull requests. </td>
+   </tr>
+   <tr>
+      <td>Maintainer</td>
+      <td><i>ADMINISTRATOR</i> - Can read, clone, and push to this repository. They can also manage issues, pull requests, and some repository settings. </td>
+   </tr>
+  </tbody>
+</table>
+
 
 ## GitHub Publication
 There are at least three different options to publish content using GitHub:
