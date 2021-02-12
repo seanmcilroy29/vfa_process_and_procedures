@@ -1,5 +1,5 @@
 #  VFA Membership Levels & Associated Benifits
-[VFA Membership Levels & Associated Benifits](https://github.com/volumetricformat/the_way_we_work/blob/Initial_proposal/Support_Documentation/membership_benefits.md).
+
 <table>
   <caption>Membership Benefits</caption>
   <thead>
