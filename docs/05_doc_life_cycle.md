@@ -68,7 +68,7 @@ The diagram below represents a high level of the main phases for the development
   </tbody>
 </table>
 
-# Documentation
+## Documentation
 Sematic Versioning 
 <figure>
 	<img src="img/vfa_semantic_versioning.svg" alt="Semantic Versioning">
@@ -108,9 +108,9 @@ Sematic Versioning
   </tbody>
 </table>
 
-# VFA Process Flows
+### VFA Process Flows
 
-## Work Packages
+### Work Packages
 * The Work Package (WP) SHALL describe the scope and expected deliverables and SHALL require WG approval
 * WPs are breakdown into Epics. Epics are grouped in Technical Releases which are identified by a Release Version, [Semantic Versioning (vX.Y.Z)](https://semver.org/).
 <figure>
@@ -140,7 +140,7 @@ The goal for an SDO is to reach interoperability; therefore ["forking"](https://
 	<figcaption>VFA Approval Flow</figcaption>
 </figure>
 
-# Review & Approval Process
+## Review & Approval Process
 
 The Review & Approval process implies that all the contributions need to be accepted by the Working Group.
 
