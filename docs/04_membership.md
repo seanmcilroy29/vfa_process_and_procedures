@@ -90,6 +90,15 @@
   </tbody>
 </table>
 
+## Governance
+
+## Steering Committee
+The Steering Committee is the body that is responsible for governing the Projec
+>Details to be added after Charter has been Approved
+>
+## Working Group(s) (WG)
+>Details to be added after Charter has been Approved
+
 ## Members 
 * Members MUST read the Project documentation (e.g., contribution guidelines, readme, and release planning file) before attempting to submit an [Issue](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue) or [Pull Request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 * Members are not allowed to [fork](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/forking-and-cloning-gists#forking-gists) a project to build a feature that has been rejected by the Working Group
@@ -109,8 +118,6 @@
 * Chairs MAY require that new information be provided about an issue before earlier decisions can be reopened/revisited.
 * The work and progress of the group are appropriately communicated through regular status reports to the SC.
 * The Chair MAY delegate tasks to the co-chair, including chairing the group as and when necessary.
- 
- A list of the current tasks associated with the Chairs responsibilities is to be found [Chair Check List]().
 
 ## Maintainers
 * The Maintainer MUST keep the project documentation up to date (e.g., contributing, readme and release planning documents)
@@ -124,8 +131,9 @@ Election criteria TBC
 
 ## Meetings
 * WGs are encouraged to schedule regular conference calls.
-* The Meetings MUST be announced at least 7 days in advance and added to the associated WG calendar in [groups.io](https://volumetric.groups.io/g/main).
-* Conf Call Meetings are to minuted and made available for members to review once the meeting has closed. If there are any discrepancies, members are to submit an issue to the Chair prior to the next scheduled meeting.
-* Previous Meeting Minutes will be agreed in the latest scheduled Conf Call meeting.
+* The Meetings MUST be announced at least 7 days in advance.
+* All the Organization members are contractually bound to the IPR policy under terms of the Membership Application and these IPR Guidelines must be followed.
+* Meetings SHALL have an IPR call where a reminder of the IPR policy and the duties and obligations of members is provided.
+* A meeting attendee list MUST be produced for each meeting. This is necessary to determine which members can vote in a Supermajority vote.
 
 ### [Minute Guidelines](https://github.com/volumetricformat/the_way_we_work/blob/Initial_proposal/Support_Documentation/Minute_Guidelines.md)
