@@ -90,9 +90,6 @@
   </tbody>
 </table>
 
-
-# What to Expect from;
-
 ## Members 
 * Members MUST read the Project documentation (e.g., contribution guidelines, readme, and release planning file) before attempting to submit an [Issue](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue) or [Pull Request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 * Members are not allowed to [fork](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/forking-and-cloning-gists#forking-gists) a project to build a feature that has been rejected by the Working Group
@@ -122,13 +119,13 @@
 * The Maintainer SHOULD keep communications with the members via GitHub Issues or Pull Requests rather than one to one communications
 * The Maintainer SHOULD close contributions that do not follow the rules, or meet the right quality or are related to features that are in the scope of the Release Version under development
 
-# Elections
+## Elections
 Election criteria TBC
 
-# Meetings
+## Meetings
 * WGs are encouraged to schedule regular conference calls.
 * The Meetings MUST be announced at least 7 days in advance and added to the associated WG calendar in [groups.io](https://volumetric.groups.io/g/main).
 * Conf Call Meetings are to minuted and made available for members to review once the meeting has closed. If there are any discrepancies, members are to submit an issue to the Chair prior to the next scheduled meeting.
 * Previous Meeting Minutes will be agreed in the latest scheduled Conf Call meeting.
 
-# [Minute Guidelines](https://github.com/volumetricformat/the_way_we_work/blob/Initial_proposal/Support_Documentation/Minute_Guidelines.md)
+### [Minute Guidelines](https://github.com/volumetricformat/the_way_we_work/blob/Initial_proposal/Support_Documentation/Minute_Guidelines.md)
