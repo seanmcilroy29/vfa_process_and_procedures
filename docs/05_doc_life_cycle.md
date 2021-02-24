@@ -1,7 +1,7 @@
 # Life Cycle of Technical Specifications
-```
-Note: Details to be added/updated after VFA Charter has been Approved
-```
+
+> Note: Deliverable Development Process (Pre-Draft --> Draft --> Working Group Approval --> Final Approval --> Publication ) details to be added after VFA Charter has been Approved
+
 The diagram below represents a high level of the main phases for the development of Technical Specifications.
 
 <figure>
