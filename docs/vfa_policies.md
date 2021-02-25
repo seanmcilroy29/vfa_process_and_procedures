@@ -1,4 +1,4 @@
-## Volumetric Format Association Policies
+# Volumetric Format Association Policies
 
 The mission of the Volumetric Format Association (“VFA”) is to support the creation of a technical and business environment for Volumetric specifications.  The purpose of this Antitrust Policy (the “Policy”) is to avoid antitrust risks in carrying out this mission.
 
@@ -14,18 +14,18 @@ This Policy shall be promulgated to all members and participants in VFA.
 
 The following policies address three areas in which the Antitrust Laws are particularly concerned: Membership; Conduct of Meetings; and Requirements/Standard Setting.
 
-### Antitrust Policy Notice
+## Antitrust Policy Notice
 
 Volumetric Format Association (“VFA”) meetings involve participation by industry competitors, and it is the intention of the VFA to conduct all of its activities in accordance with applicable antitrust and competition laws. It is therefore extremely important that attendees adhere to meeting agendas, and be aware of, and not participate in, any activities that are prohibited under applicable US state, federal or foreign antitrust and competition laws.
 
 Examples of types of actions that are prohibited at VFA meetings and in connection with VFA activities are described in the Volumetric Format Association Antitrust Policy available at http://www.volumetricformat.org/antitrust-policy. If you have questions about these matters, please contact your company counsel.
 
-### Membership
+## Membership
 VFA membership shall be made available on reasonable terms to all individuals and entities meeting the qualifications established by VFA for membership, as set forth in VFA’s bylaws.  No applicant for membership who meets the membership criteria should be rejected for any anti-competitive purpose or solely for the purpose of denying the applicant the benefits of membership.
 
 Any VFA information, materials, or reports available to members shall be made available to non-members on reasonable terms, when failure to make them available will impose a significant economic or competitive disadvantage or cost to non-members.
 
-### Conduct of Meetings
+## Conduct of Meetings
 At meetings among actual or potential competitors, there is a risk that participants in those meetings may improperly disclose or discuss information in violation of the Antitrust Laws, or otherwise act in an anti-competitive manner.  To avoid this risk, VFA members and participants must adhere to the following policies when participating in VFA-related or sponsored meetings, conference calls, or other forums.
 
 VFA members and participants must not, in fact or appearance, discuss or exchange information regarding:
@@ -58,9 +58,9 @@ VFA working groups shall develop and select requirements based on their quality,
 
 All participants in VFA working groups shall execute and abide by all applicable rules, policies and procedures adopted by VFA or the applicable working group, as updated from time to time (collectively “VFA Policies”).  Requirements developed by VFA working groups shall not incorporate any information that is proprietary, confidential, or otherwise would require a manufacturer, developer, or end-user of a product conforming to the requirements to obtain a license or permission from any third party to use the requirements.  When participating in the development of requirements, members and participants in the process shall not contribute information that is proprietary, confidential or otherwise protected by rights belonging to that member, participant, or any third party except as may be permitted in accordance with VFA Policies.
 
-### Legal Review
+## Legal Review
 VFA’s policy is to discuss thoroughly with legal counsel any proposed programs or policy decisions before they are implemented.  If any member or participant has any question as to the legality of a proposed course of action, the matter should be immediately referred to the General Counsel of VFA.  In this manner, VFA can ensure continued pursuit of its legitimate objectives with maximum protection for members and participants.
 
-### Contact Information
+## Contact Information
 To contact LF regarding matters addressed by this Antitrust Policy, please send an email to legal@lvolumetricformat.org, and reference “Antitrust Policy” in the subject line.
 
