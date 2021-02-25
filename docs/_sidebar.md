@@ -1,5 +1,5 @@
 VFA - The Way We Work
-  - [**Introduction**](Introduction.md)
+  - [**Volumetric Format Association Policies**](vfa_policies.md)
   - [**Scope**](scope.md)
   - [**Terminology and Conventions**](01_Terminology_and_Conventions.md)
   - [**Introduction**](02_introduction.md)
