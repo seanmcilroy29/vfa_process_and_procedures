@@ -1,3 +1,5 @@
+# Volumetric Format Association Policies
+
 The mission of the Volumetric Format Association (“VFA”) is to support the creation of a technical and business environment for Volumetric specifications.  The purpose of this Antitrust Policy (the “Policy”) is to avoid antitrust risks in carrying out this mission.
 
 It is VFA’s policy to comply with all applicable state and federal antitrust and trade regulation laws, and applicable antitrust/competition laws of other countries (collectively, the “Antitrust Laws”).  The penalties for violating the Antitrust Laws can be severe, including treble damages in the U.S., and large fines and imprisonment of individuals found guilty of illegal conduct.  The U.S. Supreme Court has ruled that a trade association may be held legally responsible for the unauthorized, as well as authorized, acts of its members.
